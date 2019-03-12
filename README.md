@@ -1,2 +1,1 @@
-# weijiagithub
-my name is weijia
+# weijia
