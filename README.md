@@ -1,1 +1,1 @@
-# weijia
+# Android Sample
