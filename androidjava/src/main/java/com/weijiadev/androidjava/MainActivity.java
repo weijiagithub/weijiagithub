@@ -1,4 +1,4 @@
-package com.weijiad.androidjava;
+package com.weijiadev.androidjava;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;

@@ -1,4 +1,4 @@
-package com.weijiad.androidjava;
+package com.weijiadev.androidjava;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.weijiad.androidjava", appContext.getPackageName());
+        assertEquals("com.weijiadev.androidjava", appContext.getPackageName());
     }
 }
