@@ -1,4 +1,4 @@
-package com.xinla.androidjava;
+package com.weijiad.androidjava;
 
 import org.junit.Test;
 
